@@ -13,7 +13,7 @@ cd /usr/local/bin/
 
 Clone latest release from github
 
-https://github.com/domonz/mysql_config_backup.git
+https://github.com/domonz/mysql_backup.git
 
 git create directory  mysql_config_backup
 
