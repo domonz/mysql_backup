@@ -2,6 +2,14 @@
 Configurable mysqdump and innodb backup, with options
 ####mysql backup script
 
+requirements:
+
+INNOBACKUPEXEC installed:
+
+HELP:
+https://nowhere.dk/articles/ubuntu-install-percona-xtrabackup
+
+
 INSTALLATION
 
 1.:
